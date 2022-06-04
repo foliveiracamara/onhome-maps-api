@@ -1,1 +1,1 @@
-# Google Maps in React Crash Course
+# Google Maps With TypeScript consuming Google Maps API
